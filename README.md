@@ -31,3 +31,8 @@ experiencias, entre otras funciónes adicionales.
 ```ls```
 
 ```python Calking_Calculator.py```
+
+# AGRADECIMIENTOS
+
+(Josevh y PIRATE FOUNDER)
+
