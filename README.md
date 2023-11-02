@@ -9,6 +9,7 @@
     pkg install git  
 ## instalamos python3
     pkg install python
+    
     pkg install python3
 ## instalamos math
     pkg install math
